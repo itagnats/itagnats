@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @itagnats
 - 👀 I’m interested in Ai
-- 🌱 I’m currently learning IT Mananagement
+- 🌱 I’m officially graduated the Master's of IT Mananagement
 - 💞️ I’m looking to collaborate on NLP
 - 📫 How to reach me IG: ita_gnats
 
